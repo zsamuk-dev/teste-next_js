@@ -4,7 +4,6 @@ function Home() {
     
     return (
         <h1><Contador/></h1>
-       
     )
 
     function Contador() {
